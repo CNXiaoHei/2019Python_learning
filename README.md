@@ -1,2 +1,2 @@
 # 2019Python_learning
-None
+加油
